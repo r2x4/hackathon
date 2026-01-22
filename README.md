@@ -21,6 +21,20 @@ Este repositorio documenta exclusivamente el trabajo correspondiente al área de
 Incluye análisis exploratorio, modelado predictivo y diagramas de soporte utilizados durante la hackathon.
 
 ---
+🎥 Demo del proyecto (integración con backend y frontend)
+
+Se incluye un video demostrativo donde se presenta el funcionamiento completo de la plataforma de predicción de churn desarrollada durante la hackathon.
+
+En el video se puede observar:
+- Interfaz frontend para la consulta de clientes
+- Ejecución de la predicción de churn desde la aplicación
+- Visualización del nivel de riesgo y probabilidad estimada de abandono
+- Pruebas de integración del endpoint POST de predicción utilizando Postman Mock
+
+📺 Video demo:
+👉 https://www.youtube.com/XXXXXXXX
+
+---
 
 ## 🗂️ Contenido del repositorio
 
